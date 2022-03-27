@@ -1,0 +1,2 @@
+account_sid = "ENTER YOUR TWILIO ACCOUNT SID"
+auth_token = "ENTER YOUR TWILIO AUTH TOKEN"
